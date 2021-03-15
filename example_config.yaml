@@ -1,0 +1,5 @@
+crawler_mapping:
+  "https://www.somewebsite.html": '//button[@id="add-to-cart-button"]' 
+driver_executable_path: '/mnt/chromedriver.exe'
+bot_token: "tokenfrombotfather"
+chat_id: '-000000000'
